@@ -128,7 +128,7 @@ Reg no : 212222100025
 ## Output:
 ![Book](Bookcover.png)
 ### validation:
-[valid](cover-valid.png)
+![valid](cover-valid.png)
 
 ## Result:
 The page for designing book cover page using HTML and CSS is executed successfully.
